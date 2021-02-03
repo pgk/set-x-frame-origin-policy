@@ -12,7 +12,7 @@
  * Requires PHP: 5.6
  * Text Domain: set-xframe-origin-policy
  * Domain Path: /lang/
- * License: GPL2+
+ * License: GPL3+
  *
  * @package set-x-frame-origin-policy
  */
